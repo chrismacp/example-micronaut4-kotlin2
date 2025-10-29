@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: dev.macpherson.example
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, flyway, gradle, http-client-test, jdbc-hikari, kotest, kotlin, kotlin-application, ksp, logback, micronaut-aot, micronaut-build, micronaut-http-validation, micronaut-test-rest-assured, netty-server, postgres, readme, serialization-jackson, shade, static-resources, testcontainers, yaml, yaml-build]
